@@ -29,6 +29,8 @@ MOST POPULAR: REDHAT AND UBUNTU
 
 /USR     USER RELATED PROGRAMS
 
+![image](https://github.com/Riyatomar14/linuxCommandUnderstand/assets/143107173/73897796-afd3-41e4-9c36-b21036e86185)
+
 /VAR     VARIABLE DATA,MOST NOTABLE LOG FILES
 
 
