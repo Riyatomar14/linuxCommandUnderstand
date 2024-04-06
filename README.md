@@ -29,9 +29,52 @@ MOST POPULAR: REDHAT AND UBUNTU
 
 /USR     USER RELATED PROGRAMS
 
+/VAR     VARIABLE DATA,MOST NOTABLE LOG FILES
+
 ![image](https://github.com/Riyatomar14/linuxCommandUnderstand/assets/143107173/73897796-afd3-41e4-9c36-b21036e86185)
 
-/VAR     VARIABLE DATA,MOST NOTABLE LOG FILES
+ls --> list directory 
+
+cd --> change directory
+
+note : when there are two many arguments like file name - human resources
+
+cd argu1\ argu2\ argu3\ lastArgu/
+
+cd human\ resources/
+
+cd .. --> to go back to directory
+
+pwd --> (print working directory) you know where you are currently present 
+
+cat --> content of particular file 
+
+clear --> after clear you still in current location 
+
+echo -->  a way to communicate with your Linux terminal. example - echo"hello"  .... it give hello
+
+touch --> to create a new file 
+
+exit --> exit from terminal
+
+### help pages which exists as a shell built-ins 
+
+#### to find help for ls command
+
+type -a ls
+
+#### to find help for echo command
+
+type -a echo
+
+### or help from man page
+
+man ls
+
+man echo 
+
+
+
 
 
 
