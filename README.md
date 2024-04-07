@@ -57,6 +57,31 @@ touch --> to create a new file
 
 exit --> exit from terminal
 
+mkdir --> make directory
+
+note: you want to make two directory at one time 
+
+mkdir angela cat 
+
+rmdir--> remove directory
+
+rm -rf directoryname/ --> remove whole folder
+
+help cd ---> more detail about cd
+
+ls -a --> to see every hidden files or every single file 
+
+ls --color  --> colourized format 
+
+ls -d 
+
+ls -l -> you get a long directory with basic detail
+
+note: when we apply , we get the file permissions which are used to  control who can read,write and execute a given file or directory.
+
+ls -r --> reverse the order of files
+
+ls -t --> sort with respect to time
 ### help pages which exists as a shell built-ins 
 
 #### to find help for ls command
@@ -72,6 +97,9 @@ type -a echo
 man ls
 
 man echo 
+
+
+
 
 
 
