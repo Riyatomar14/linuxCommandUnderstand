@@ -95,6 +95,11 @@ UGOA --> U for users ,G for group ,O for other ,A for all
 
 RWX  --> R for read , W for write ,X = execute 
 
+![how to change read permission](https://github.com/Riyatomar14/linuxCommandUnderstand/assets/143107173/641ab7dc-53fd-4531-9f58-6958fcbe39aa)
+
+![how to change read,write and execute permission](https://github.com/Riyatomar14/linuxCommandUnderstand/assets/143107173/631ee2b1-523c-43fb-ac08-348090bb5207)
+
+
 ### help pages which exists as a shell built-ins 
 
 #### to find help for ls command
