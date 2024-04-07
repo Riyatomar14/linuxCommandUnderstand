@@ -117,6 +117,8 @@ man ls
 
 man echo 
 
+# how to find the file 
+
 
 
 
