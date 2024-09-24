@@ -63,7 +63,7 @@ note: you want to make two directory at one time
 
 mkdir angela cat 
 
-*rmdir--> remove directory
+*rmdir--> remove directory only if there are no file inside 
 
 *rm -rf directoryname/ --> remove whole folder
 
