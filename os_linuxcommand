@@ -10,4 +10,4 @@
 *date - displays todays date along with time 
 *pwd - prints the cureent working directory 
 *mkdir - create a directory 
-*cp - copy file or directory 
+*cp - copy and paste a file into a  directory 
