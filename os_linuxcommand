@@ -22,4 +22,10 @@
 
 *mkdir - create a directory 
 
-*cp - copy and paste a file into a  directory 
+*cp - copy and paste a file into a  directory   , syntax :- cp <sourcefile> <destinationfile>
+
+
+
+
+
+
