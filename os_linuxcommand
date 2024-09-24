@@ -43,7 +43,16 @@ Column 2: Lines unique to the second file.
 Column 3: Lines common to both files.  )
 
 *diff - 
-* 
+
+* find - it is used to find and can also be used to delete 
+   syntax :- find ./<directory> -name filename.txt 
+for find + delete -> find ./directoryname -name filename.txt -exec rm -i {} \; 
+   **-i -> it is used for the confirmation from the user to delete the file 
+*grep - used to find a particular word in a file 
+syntax : grep -i "<word you want to search>" <filename>.txt
+*awk - used to perform any action(for eg-print ) on any particaular file   
+ syntax -> awk options 'selection _criteria {action }' input-file > output-file
+        eg : awk '{print}' employee.txt
 
 
 
