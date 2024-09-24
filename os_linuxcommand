@@ -27,11 +27,24 @@
 *rm - remove file 
 
 *rmdir - remove directory if empty 
+
 *rm -rf <directoryname>\  -> deletes the directory with all the files 
+
 * mv - to rename and move file 
  syntax : for rename -> mv <old file name > <new file name >
          for move -> mv <filename >  <location (pwd)>
-* cmp - to compare two files byte by byte (charater by charater and gives the rersult where the first mismatch )
+
+*cmp - to compare two files byte by byte (charater by charater and gives the rersult where the first mismatch)
+
+*comm - compares two file line by line (The ‘comm’ command is used for line-by-line comparison of two sorted files. It reads two files as input and generates a three-column output by default:
+
+Column 1: Lines unique to the first file.
+Column 2: Lines unique to the second file.
+Column 3: Lines common to both files.  )
+
+*diff - 
+* 
+
 
 
 
