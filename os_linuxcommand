@@ -1,0 +1,7 @@
+*touch - to create a file 
+*ls - list the existing directories or files 
+*vim - to write inside a file (existing or new )
+*to exit from vim - press esc then shift+ :wq!
+*wc - for display the number of *lines ,words , and charater* 
+*cat - display the content of the file 
+*clear - to clear the terminal 
