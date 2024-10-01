@@ -49,7 +49,7 @@ Column 3: Lines common to both files.  )
 
 * find - it is used to find and can also be used to delete 
    syntax :- find ./<directory> -name filename.txt 
- for find + delete -> find ./directoryname -name filename.txt -exec rm -i {} \; 
+ for find + delete -> find ./directoryname -name filename.txt -exec rm -i {} \;
    **-i -> it is used for the confirmation from the user to delete the file 
 
 *grep - used to find a particular word in a file 
